@@ -2,8 +2,13 @@
 
 <p>On Third of this September, spare some time and do come to this great party.
 We will be waiting.</p>
+
 <h3><b>Venue</b></h3>
-Filfora, Koh-e-fiza
+<h4>Filfora, Koh-e-fiza</h4>
+
+<h3><b>Time</b></h3>
+<h4>5:00 P.M.</h4>
+<h4>P.S.: Try to be punctual this time. :P</h4>
 
 <h3><b>Location coordinates</b></h3> 
 <h4>23.264127, 77.380313</h4>

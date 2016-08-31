@@ -1,6 +1,7 @@
 <h1>YOU HAVE BEEN INVITED</h1>
 
-<p>Do come to this great party, we await you</p>
+<p>On Third of this September, spare some time and do come to this great party.
+We will be waiting.</p>
 <h3><b>Venue</b></h3>
 Filfora, Koh-e-fiza
 
